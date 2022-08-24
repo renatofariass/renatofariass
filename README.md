@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Renato!
 🧑‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac | PE.
 
-📚 Atualmente estou estudando Java e Spring Framework
+📚 Atualmente estou focando meus estudos em Java e Spring Framework.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
