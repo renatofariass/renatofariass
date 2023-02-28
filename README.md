@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Renato!
 
-📚 Atualmente foco em ser dev back-end e estou aprofundando meus estudos em Java.
+📚 Atualmente foco em ser dev back-end e estou aprofundando meus estudos em Java e Spring Boot.
 
 <div align="center">
   <a href="https://github.com/renatofariass">
