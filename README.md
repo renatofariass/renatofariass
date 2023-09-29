@@ -23,6 +23,6 @@
 
 ##
 
-#### Se conecte comigo no linkedin :)
+#### Quer trocar um papo? Se conecte comigo no linkedin :)
 
 <a href="https://www.linkedin.com/in/renatofari4s/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logocolor=white" target="_blank"></a>
