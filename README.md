@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Renato!
 
 📚 Atualmente foco em desenvolver minhas habilidades em back-end e estou aprofundando meus estudos em Java e Spring Boot.
+![snake gif](https://github.com/renatofariass/renatofariass/blob/output/github-contribution-grid-snake.gif)
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
   <h2>:fire: Estatísticas</h2>
