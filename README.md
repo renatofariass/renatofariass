@@ -1,4 +1,4 @@
-### Olá! Meu nome é Renato!
+### Olá! Bem vindo, Meu nome é Renato.
 
 📚 Atualmente foco em desenvolver minhas habilidades em back-end e estou aprofundando meus estudos em Java e Spring Boot.
 
